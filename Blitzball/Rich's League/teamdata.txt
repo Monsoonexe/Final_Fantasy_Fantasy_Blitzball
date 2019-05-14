@@ -1,0 +1,4 @@
+MAR=Marlboro Mayhem League 6:Brother|Tidus|Zack|Cloud|Rufus|Shinra|Ashe|Reks
+
+KHK=Kingdom Krew:Sora|Riku|Axel|Xion|Xehanort|Kairi|Roxas|Ansem
+

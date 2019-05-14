@@ -1,0 +1,3 @@
+MAR=Marlboro Mayhem League 6:Brother|Tidus|Zack|Cloud|Rufus|Shinra|Ashe|Reks
+ 
+DMD=Highwind Diamonds League 6:Angeal|Vincent|Wakka|Biggs|Macgregor|Guinness|Rin
